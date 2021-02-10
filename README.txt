@@ -1,0 +1,1 @@
+Menu Slider and Modal using vanilla HTML, CSS and JavaScript. Following Traversy Media tutorial.
